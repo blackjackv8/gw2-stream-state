@@ -1,0 +1,526 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-27T08:38:49Z",
+  "cache_seconds": 300,
+  "gw2_api": {
+    "permissions": [
+      "progression",
+      "builds",
+      "account",
+      "inventories",
+      "characters",
+      "unlocks"
+    ],
+    "limitations": [
+      "ArenaNet currently returns empty data from character training and hero-point endpoints, so exact elite-specialization training progress cannot be derived reliably.",
+      "Story quest metadata is manually whitelisted by ArenaNet and can lag behind newly released story content.",
+      "Some public mastery metadata may lag behind account mastery data for newer releases."
+    ]
+  },
+  "account": {
+    "access": [
+      "GuildWars2",
+      "PathOfFire",
+      "EndOfDragons",
+      "SecretsOfTheObscure",
+      "JanthirWilds"
+    ],
+    "fractal_level": 1,
+    "commander": false,
+    "created": "2012-09-01T11:44:00Z"
+  },
+  "character": {
+    "name": "Jack Blacktoe",
+    "race": "Human",
+    "gender": "Male",
+    "profession": "Elementalist",
+    "level": 80,
+    "age": 236545,
+    "created": "2026-06-28T14:16:00Z",
+    "deaths": 29
+  },
+  "build": {
+    "pve_specializations": [
+      {
+        "id": 41,
+        "name": "Luft",
+        "elite": false,
+        "traits": [
+          232,
+          1502,
+          1503
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Feuer",
+        "elite": false,
+        "traits": [
+          296,
+          334,
+          1510
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Sturmbote",
+        "elite": true,
+        "traits": [
+          1952,
+          1891,
+          1839
+        ]
+      }
+    ]
+  },
+  "equipment": {
+    "rarity_summary": {
+      "Basic": 2,
+      "Exotic": 6,
+      "Fine": 1,
+      "Masterwork": 6,
+      "Rare": 6
+    },
+    "items": [
+      {
+        "slot": "Accessory1",
+        "id": 23974,
+        "name": "Sonnengott-Totem",
+        "type": "Trinket",
+        "rarity": "Masterwork",
+        "level": 57
+      },
+      {
+        "slot": "Accessory2",
+        "id": 23974,
+        "name": "Sonnengott-Totem",
+        "type": "Trinket",
+        "rarity": "Masterwork",
+        "level": 57
+      },
+      {
+        "slot": "Amulet",
+        "id": 64141,
+        "name": "Mächtiges Amulett",
+        "type": "Trinket",
+        "rarity": "Rare",
+        "level": 46,
+        "upgrades": [
+          {
+            "id": 24529,
+            "name": "Talisman der Wirkstärke",
+            "rarity": "Fine"
+          }
+        ]
+      },
+      {
+        "slot": "Axe",
+        "id": 87530,
+        "name": "Choya-Holzfällerwerkzeug",
+        "type": "Gathering",
+        "rarity": "Rare",
+        "level": 0,
+        "upgrades": [
+          {
+            "id": 87534,
+            "name": "Glyphe des Prospektors",
+            "rarity": "Rare"
+          }
+        ]
+      },
+      {
+        "slot": "Backpack",
+        "id": 63717,
+        "name": "Rucksack-Trageriemen der Vorbereitung",
+        "type": "Back",
+        "rarity": "Masterwork",
+        "level": 0
+      },
+      {
+        "slot": "Boots",
+        "id": 584,
+        "name": "Faulende Seher-Stiefel der Infiltration",
+        "type": "Armor",
+        "rarity": "Exotic",
+        "level": 71,
+        "upgrades": [
+          {
+            "id": 24703,
+            "name": "Überlegene Rune der Infiltration",
+            "rarity": "Exotic"
+          }
+        ]
+      },
+      {
+        "slot": "Coat",
+        "id": 64554,
+        "name": "Grausames Seher-Wams",
+        "type": "Armor",
+        "rarity": "Exotic",
+        "level": 75
+      },
+      {
+        "slot": "FishingRod",
+        "id": 97730,
+        "name": "Angel",
+        "type": "Gathering",
+        "rarity": "Basic",
+        "level": 0
+      },
+      {
+        "slot": "Gloves",
+        "id": 69968,
+        "name": "Faulende Seher-Handschuhe der Zitadelle",
+        "type": "Armor",
+        "rarity": "Exotic",
+        "level": 72,
+        "upgrades": [
+          {
+            "id": 24741,
+            "name": "Überlegene Rune der Zitadelle",
+            "rarity": "Exotic"
+          }
+        ]
+      },
+      {
+        "slot": "Helm",
+        "id": 69909,
+        "name": "Faulende Seher-Maske des Reisenden",
+        "type": "Armor",
+        "rarity": "Exotic",
+        "level": 72,
+        "upgrades": [
+          {
+            "id": 24691,
+            "name": "Überlegene Rune des Reisenden",
+            "rarity": "Exotic"
+          }
+        ]
+      },
+      {
+        "slot": "HelmAquatic",
+        "id": 64044,
+        "name": "Jagender Schwarzerd-Aqua-Atmer der Zitadelle",
+        "type": "Armor",
+        "rarity": "Rare",
+        "level": 42,
+        "upgrades": [
+          {
+            "id": 24739,
+            "name": "Geringe Rune der Zitadelle",
+            "rarity": "Masterwork"
+          }
+        ]
+      },
+      {
+        "slot": "Leggings",
+        "id": 69997,
+        "name": "Faulende Seher-Hose des Zentauren",
+        "type": "Armor",
+        "rarity": "Exotic",
+        "level": 72,
+        "upgrades": [
+          {
+            "id": 24788,
+            "name": "Überlegene Rune des Zentauren",
+            "rarity": "Exotic"
+          }
+        ]
+      },
+      {
+        "slot": "Pick",
+        "id": 88355,
+        "name": "Choya-Bergbauwerkzeug",
+        "type": "Gathering",
+        "rarity": "Rare",
+        "level": 0,
+        "upgrades": [
+          {
+            "id": 88241,
+            "name": "Glyphe des Kräuterkundigen",
+            "rarity": "Rare"
+          }
+        ]
+      },
+      {
+        "slot": "Ring1",
+        "id": 69635,
+        "name": "Ring des Sonnengottes",
+        "type": "Trinket",
+        "rarity": "Masterwork",
+        "level": 57
+      },
+      {
+        "slot": "Ring2",
+        "id": 64142,
+        "name": "Mächtiger Ring",
+        "type": "Trinket",
+        "rarity": "Rare",
+        "level": 47,
+        "upgrades": [
+          {
+            "id": 24530,
+            "name": "Talisman der Genesung",
+            "rarity": "Fine"
+          }
+        ]
+      },
+      {
+        "slot": "Shoulders",
+        "id": 3407,
+        "name": "Starke Lehrlings-Schultern",
+        "type": "Armor",
+        "rarity": "Basic",
+        "level": 58,
+        "upgrades": [
+          {
+            "id": 24891,
+            "name": "Siegel der Magi",
+            "rarity": "Masterwork"
+          }
+        ]
+      },
+      {
+        "slot": "Sickle",
+        "id": 87554,
+        "name": "Choya-Erntewerkzeug",
+        "type": "Gathering",
+        "rarity": "Rare",
+        "level": 0,
+        "upgrades": [
+          {
+            "id": 87550,
+            "name": "Glyphe des Försters",
+            "rarity": "Rare"
+          }
+        ]
+      },
+      {
+        "slot": "WeaponA1",
+        "id": 27696,
+        "name": "Starker Weicher Holz-Stab der Schwäche",
+        "type": "Weapon",
+        "rarity": "Masterwork",
+        "level": 59,
+        "upgrades": [
+          {
+            "id": 24634,
+            "name": "Geringes Sigill der Schwäche",
+            "rarity": "Masterwork"
+          },
+          {
+            "id": 24894,
+            "name": "Siegel des Soldaten",
+            "rarity": "Masterwork"
+          }
+        ]
+      },
+      {
+        "slot": "WeaponAquaticA",
+        "id": 28653,
+        "name": "Wütender Schwarzerd-Dreizack der Grawl-Vernichtung",
+        "type": "Weapon",
+        "rarity": "Masterwork",
+        "level": 75,
+        "upgrades": [
+          {
+            "id": 24646,
+            "name": "Geringes Sigill der Grawl-Vernichtung",
+            "rarity": "Masterwork"
+          }
+        ]
+      },
+      {
+        "slot": "WeaponB1",
+        "id": 26490,
+        "name": "Veredeltes Weiches Holz-Zepter",
+        "type": "Weapon",
+        "rarity": "Fine",
+        "level": 57,
+        "upgrades": [
+          {
+            "id": 24894,
+            "name": "Siegel des Soldaten",
+            "rarity": "Masterwork"
+          }
+        ]
+      },
+      {
+        "slot": "WeaponB2",
+        "id": 71561,
+        "name": "Sturmboten-Kriegshorn",
+        "type": "Weapon",
+        "rarity": "Exotic",
+        "level": 80,
+        "stats": {
+          "CritDamage": 85,
+          "Power": 85,
+          "Precision": 120
+        }
+      }
+    ]
+  },
+  "story": {
+    "completed_quest_count": 23,
+    "stories": [
+      {
+        "season_id": "215AAA0F-CDAC-4F93-86DA-C155A99B5784",
+        "season_name": "Meine Geschichte",
+        "season_order": 1,
+        "story_id": 3,
+        "story_name": "Meine Geschichte",
+        "story_order": 0,
+        "completed_quests": [
+          {
+            "id": 106,
+            "name": "Der Informant"
+          },
+          {
+            "id": 108,
+            "name": "Eine vornehme Gruppe"
+          },
+          {
+            "id": 109,
+            "name": "Banditen-Entführer"
+          },
+          {
+            "id": 110,
+            "name": "Der Prozess von Julius Zamon"
+          },
+          {
+            "id": 117,
+            "name": "Die Verteidigung von Shaemoor"
+          },
+          {
+            "id": 123,
+            "name": "Willkommen zu Hause"
+          },
+          {
+            "id": 125,
+            "name": "Der Untergang der Falken-Kompanie"
+          },
+          {
+            "id": 127,
+            "name": "Ersucht Logans Hilfe"
+          },
+          {
+            "id": 128,
+            "name": "Anschuldigung"
+          },
+          {
+            "id": 139,
+            "name": "Befreiung"
+          },
+          {
+            "id": 140,
+            "name": "Die Orden von Tyria"
+          },
+          {
+            "id": 141,
+            "name": "Rohe Gewalt"
+          },
+          {
+            "id": 145,
+            "name": "Die Spur des Seraphen"
+          },
+          {
+            "id": 147,
+            "name": "Sprecher der Toten"
+          },
+          {
+            "id": 151,
+            "name": "Die Gerechtigkeit der Königin"
+          }
+        ]
+      },
+      {
+        "season_id": "215AAA0F-CDAC-4F93-86DA-C155A99B5784",
+        "season_name": "Meine Geschichte",
+        "season_order": 1,
+        "story_id": 9,
+        "story_name": "Die Orden von Tyria",
+        "story_order": 1,
+        "completed_quests": [
+          {
+            "id": 251,
+            "name": "Die Vergangenheit ausgraben"
+          },
+          {
+            "id": 254,
+            "name": "Eindämmung"
+          },
+          {
+            "id": 256,
+            "name": "Böses Blut"
+          },
+          {
+            "id": 257,
+            "name": "Mächtiger als das Schwert"
+          },
+          {
+            "id": 267,
+            "name": "Das Opfer des Champion"
+          },
+          {
+            "id": 269,
+            "name": "Unheilige Erde"
+          },
+          {
+            "id": 270,
+            "name": "Von der Sonne auserwählt"
+          },
+          {
+            "id": 358,
+            "name": "Den Weg bereiten"
+          }
+        ]
+      }
+    ]
+  },
+  "masteries": {
+    "points": [
+      {
+        "region": "Central Tyria",
+        "spent": 1,
+        "earned": 9,
+        "available": 8
+      },
+      {
+        "region": "Heart of Thorns",
+        "spent": 1,
+        "earned": 1,
+        "available": 0
+      }
+    ],
+    "tracks": [
+      {
+        "id": 8,
+        "name": "Gleiten",
+        "region": "Maguuma",
+        "unlocked_level_index": 0,
+        "unlocked_level_name": "Grundlagen des Gleitschirms",
+        "total_levels": 6
+      },
+      {
+        "id": 4,
+        "name": "Pakt-Kommandeur",
+        "region": "Tyria",
+        "unlocked_level_index": 0,
+        "unlocked_level_name": "Pakt-Mentor",
+        "total_levels": 5
+      }
+    ]
+  },
+  "mounts": {
+    "available": true,
+    "unlocked": [
+      "raptor"
+    ]
+  },
+  "weekly": {
+    "raid_events_completed": []
+  },
+  "daily": {
+    "world_bosses_completed": []
+  }
+}
