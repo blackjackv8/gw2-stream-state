@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-27T08:38:49Z",
+  "generated_at": "2026-08-27T08:51:35Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -516,6 +516,11 @@
     "unlocked": [
       "raptor"
     ]
+  },
+  "twitch_schedule": {
+    "available": false,
+    "horizon_days": 14,
+    "reason": "TWITCH_BROADCASTER_ID is not configured"
   },
   "weekly": {
     "raid_events_completed": []
