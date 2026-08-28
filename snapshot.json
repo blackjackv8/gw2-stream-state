@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-27T19:38:10Z",
+  "generated_at": "2026-08-28T10:33:10Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -35,7 +35,7 @@
     "gender": "Male",
     "profession": "Elementalist",
     "level": 80,
-    "age": 236545,
+    "age": 239033,
     "created": "2026-06-28T14:16:00Z",
     "deaths": 29
   },
@@ -361,7 +361,7 @@
     ]
   },
   "story": {
-    "completed_quest_count": 23,
+    "completed_quest_count": 24,
     "stories": [
       {
         "season_id": "215AAA0F-CDAC-4F93-86DA-C155A99B5784",
@@ -468,6 +468,10 @@
           {
             "id": 270,
             "name": "Von der Sonne auserwählt"
+          },
+          {
+            "id": 285,
+            "name": "Alarmstufe Rot"
           },
           {
             "id": 358,
