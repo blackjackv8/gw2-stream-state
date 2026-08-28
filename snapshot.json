@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T10:33:10Z",
+  "generated_at": "2026-08-28T11:03:14Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -35,9 +35,9 @@
     "gender": "Male",
     "profession": "Elementalist",
     "level": 80,
-    "age": 239033,
+    "age": 240974,
     "created": "2026-06-28T14:16:00Z",
-    "deaths": 29
+    "deaths": 30
   },
   "build": {
     "pve_specializations": [
@@ -75,11 +75,12 @@
   },
   "equipment": {
     "rarity_summary": {
+      "Ascended": 1,
       "Basic": 2,
       "Exotic": 6,
       "Fine": 1,
       "Masterwork": 6,
-      "Rare": 6
+      "Rare": 5
     },
     "items": [
       {
@@ -100,17 +101,18 @@
       },
       {
         "slot": "Amulet",
-        "id": 64141,
-        "name": "Mächtiges Amulett",
+        "id": 93940,
+        "name": "Amulett der Festlichkeit",
         "type": "Trinket",
-        "rarity": "Rare",
-        "level": 46,
-        "upgrades": [
-          {
-            "id": 24529,
-            "name": "Talisman der Wirkstärke",
-            "rarity": "Fine"
-          }
+        "rarity": "Ascended",
+        "level": 80,
+        "stats": {
+          "CritDamage": 108,
+          "Power": 157,
+          "Precision": 108
+        },
+        "infusions": [
+          93953
         ]
       },
       {
@@ -199,18 +201,11 @@
       },
       {
         "slot": "HelmAquatic",
-        "id": 64044,
-        "name": "Jagender Schwarzerd-Aqua-Atmer der Zitadelle",
+        "id": 63598,
+        "name": "Vorreiter-Atmer",
         "type": "Armor",
         "rarity": "Rare",
-        "level": 42,
-        "upgrades": [
-          {
-            "id": 24739,
-            "name": "Geringe Rune der Zitadelle",
-            "rarity": "Masterwork"
-          }
-        ]
+        "level": 60
       },
       {
         "slot": "Leggings",
@@ -361,7 +356,7 @@
     ]
   },
   "story": {
-    "completed_quest_count": 24,
+    "completed_quest_count": 25,
     "stories": [
       {
         "season_id": "215AAA0F-CDAC-4F93-86DA-C155A99B5784",
@@ -468,6 +463,10 @@
           {
             "id": 270,
             "name": "Von der Sonne auserwählt"
+          },
+          {
+            "id": 282,
+            "name": "Schlacht auf der Klaueninsel"
           },
           {
             "id": 285,
