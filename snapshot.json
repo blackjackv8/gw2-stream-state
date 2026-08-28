@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T11:53:10Z",
+  "generated_at": "2026-08-28T13:03:15Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -35,9 +35,9 @@
     "gender": "Male",
     "profession": "Elementalist",
     "level": 80,
-    "age": 243895,
+    "age": 248126,
     "created": "2026-06-28T14:16:00Z",
-    "deaths": 32
+    "deaths": 33
   },
   "build": {
     "pve_specializations": [
@@ -496,9 +496,9 @@
     "points": [
       {
         "region": "Central Tyria",
-        "spent": 1,
+        "spent": 2,
         "earned": 9,
-        "available": 8
+        "available": 7
       },
       {
         "region": "Heart of Thorns",
@@ -515,6 +515,14 @@
         "unlocked_level_index": 0,
         "unlocked_level_name": "Grundlagen des Gleitschirms",
         "total_levels": 6
+      },
+      {
+        "id": 5,
+        "name": "Fraktal-Einstimmung",
+        "region": "Tyria",
+        "unlocked_level_index": 0,
+        "unlocked_level_name": "Rat befolgen",
+        "total_levels": 4
       },
       {
         "id": 4,
