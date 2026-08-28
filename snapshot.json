@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T11:23:11Z",
+  "generated_at": "2026-08-28T11:33:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -35,7 +35,7 @@
     "gender": "Male",
     "profession": "Elementalist",
     "level": 80,
-    "age": 242124,
+    "age": 242724,
     "created": "2026-06-28T14:16:00Z",
     "deaths": 32
   },
@@ -76,10 +76,9 @@
   "equipment": {
     "rarity_summary": {
       "Ascended": 1,
-      "Basic": 2,
-      "Exotic": 6,
-      "Fine": 1,
-      "Masterwork": 6,
+      "Basic": 1,
+      "Exotic": 10,
+      "Masterwork": 4,
       "Rare": 5
     },
     "items": [
@@ -239,39 +238,32 @@
       },
       {
         "slot": "Ring1",
-        "id": 69635,
-        "name": "Ring des Sonnengottes",
+        "id": 23201,
+        "name": "Berserkerhafter Ring",
         "type": "Trinket",
-        "rarity": "Masterwork",
-        "level": 57
+        "rarity": "Exotic",
+        "level": 78
       },
       {
         "slot": "Ring2",
-        "id": 64142,
-        "name": "Mächtiger Ring",
+        "id": 23201,
+        "name": "Berserkerhafter Ring",
         "type": "Trinket",
-        "rarity": "Rare",
-        "level": 47,
-        "upgrades": [
-          {
-            "id": 24530,
-            "name": "Talisman der Genesung",
-            "rarity": "Fine"
-          }
-        ]
+        "rarity": "Exotic",
+        "level": 78
       },
       {
         "slot": "Shoulders",
-        "id": 3407,
-        "name": "Starke Lehrlings-Schultern",
+        "id": 2820,
+        "name": "Berserkerhafter Beschwörer-Überwurf der Infiltration",
         "type": "Armor",
-        "rarity": "Basic",
-        "level": 58,
+        "rarity": "Rare",
+        "level": 80,
         "upgrades": [
           {
-            "id": 24891,
-            "name": "Siegel der Magi",
-            "rarity": "Masterwork"
+            "id": 24704,
+            "name": "Beachtliche Rune der Infiltration",
+            "rarity": "Rare"
           }
         ]
       },
@@ -292,23 +284,11 @@
       },
       {
         "slot": "WeaponA1",
-        "id": 27696,
-        "name": "Starker Weicher Holz-Stab der Schwäche",
+        "id": 100330,
+        "name": "Berserkerhafter Zerborstener Stab",
         "type": "Weapon",
-        "rarity": "Masterwork",
-        "level": 59,
-        "upgrades": [
-          {
-            "id": 24634,
-            "name": "Geringes Sigill der Schwäche",
-            "rarity": "Masterwork"
-          },
-          {
-            "id": 24894,
-            "name": "Siegel des Soldaten",
-            "rarity": "Masterwork"
-          }
-        ]
+        "rarity": "Exotic",
+        "level": 80
       },
       {
         "slot": "WeaponAquaticA",
@@ -327,18 +307,11 @@
       },
       {
         "slot": "WeaponB1",
-        "id": 26490,
-        "name": "Veredeltes Weiches Holz-Zepter",
+        "id": 100042,
+        "name": "Berserkerhaftes Zerborstenes Zepter",
         "type": "Weapon",
-        "rarity": "Fine",
-        "level": 57,
-        "upgrades": [
-          {
-            "id": 24894,
-            "name": "Siegel des Soldaten",
-            "rarity": "Masterwork"
-          }
-        ]
+        "rarity": "Exotic",
+        "level": 80
       },
       {
         "slot": "WeaponB2",
