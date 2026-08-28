@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T14:38:21Z",
+  "generated_at": "2026-08-28T14:48:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -35,9 +35,9 @@
     "gender": "Male",
     "profession": "Elementalist",
     "level": 80,
-    "age": 253612,
+    "age": 253916,
     "created": "2026-06-28T14:16:00Z",
-    "deaths": 36
+    "deaths": 39
   },
   "build": {
     "pve_specializations": [
