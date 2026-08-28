@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T13:58:11Z",
+  "generated_at": "2026-08-28T14:38:21Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -35,7 +35,7 @@
     "gender": "Male",
     "profession": "Elementalist",
     "level": 80,
-    "age": 251263,
+    "age": 253612,
     "created": "2026-06-28T14:16:00Z",
     "deaths": 36
   },
@@ -350,16 +350,11 @@
       },
       {
         "slot": "WeaponB2",
-        "id": 71561,
-        "name": "Sturmboten-Kriegshorn",
+        "id": 109919,
+        "name": "Zauberwerk-Kriegshorn",
         "type": "Weapon",
         "rarity": "Exotic",
-        "level": 80,
-        "stats": {
-          "CritDamage": 85,
-          "Power": 85,
-          "Precision": 120
-        }
+        "level": 80
       }
     ]
   },
