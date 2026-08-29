@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T18:08:15Z",
+  "generated_at": "2026-08-29T16:08:16Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -541,14 +541,6 @@
     "source": "twitch_icalendar",
     "horizon_days": 14,
     "events": [
-      {
-        "uid": "3aa2fbbf-5096-4609-8fee-e6b0fd1b493d",
-        "start_time": "2026-08-28T10:00:00Z",
-        "end_time": "2026-08-28T16:00:00Z",
-        "title": "Level 80 - was nun?",
-        "category": "Guild Wars 2",
-        "description": "Guild Wars 2."
-      },
       {
         "uid": "f82655c6-b295-4dd7-9d96-64b0bfdee3e3",
         "start_time": "2026-08-30T12:00:00Z",
