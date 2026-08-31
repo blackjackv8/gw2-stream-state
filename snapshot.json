@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T08:13:10Z",
+  "generated_at": "2026-08-31T08:33:10Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -548,6 +548,28 @@
         "title": "Cozy-Sonntag",
         "category": "Star Citizen",
         "description": "Star Citizen."
+      },
+      {
+        "uid": "13d61afa-d57a-44a8-aa60-d2fa4502985c",
+        "start_time": "2026-09-01T17:00:00Z",
+        "end_time": "2026-09-01T21:00:00Z",
+        "title": "Bosse klopfen und dritte Base suchen!",
+        "category": "Palworld",
+        "description": "Palworld."
+      },
+      {
+        "uid": "e780ef6c-8751-41f1-91be-01a74ce52b62",
+        "start_time": "2026-09-03T17:00:00Z",
+        "end_time": "2026-09-03T21:00:00Z",
+        "title": "Cargo-Rep-Grind",
+        "category": "Star Citizen",
+        "description": "Star Citizen."
+      },
+      {
+        "uid": "58db3ee2-a8d4-44bc-8b34-5778ec860485",
+        "start_time": "2026-09-06T12:00:00Z",
+        "end_time": "2026-09-06T16:00:00Z",
+        "title": "Cozy-Sonntag-Nachmittag"
       }
     ]
   },
