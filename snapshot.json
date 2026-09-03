@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T21:03:14Z",
+  "generated_at": "2026-09-03T21:23:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -554,6 +554,13 @@
         "start_time": "2026-09-06T12:00:00Z",
         "end_time": "2026-09-06T16:00:00Z",
         "title": "Cozy-Sonntag-Nachmittag"
+      },
+      {
+        "uid": "a8a4e439-765e-4735-bfa0-d8786684f97e",
+        "start_time": "2026-09-08T17:00:00Z",
+        "end_time": "2026-09-08T21:00:00Z",
+        "category": "The Last Campfire",
+        "description": "The Last Campfire."
       }
     ]
   },
