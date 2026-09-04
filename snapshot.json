@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T21:23:11Z",
+  "generated_at": "2026-09-04T21:08:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -541,14 +541,6 @@
     "source": "twitch_icalendar",
     "horizon_days": 14,
     "events": [
-      {
-        "uid": "13d61afa-d57a-44a8-aa60-d2fa4502985c",
-        "start_time": "2026-09-03T17:00:00Z",
-        "end_time": "2026-09-03T21:00:00Z",
-        "title": "Bosse klopfen und dritte Base suchen!",
-        "category": "Palworld",
-        "description": "Palworld."
-      },
       {
         "uid": "58db3ee2-a8d4-44bc-8b34-5778ec860485",
         "start_time": "2026-09-06T12:00:00Z",
