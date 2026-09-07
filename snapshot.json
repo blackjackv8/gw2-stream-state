@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T13:33:21Z",
+  "generated_at": "2026-09-07T15:23:13Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -558,7 +558,7 @@
         "uid": "0c610b46-80c6-4850-b3c5-e75a5f0534d6",
         "start_time": "2026-09-10T17:00:00Z",
         "end_time": "2026-09-10T21:00:00Z",
-        "title": "Wohnwagen-Tour ab 20:30 mit @itsbarrex @ullenbullen und @alpengamecast",
+        "title": "Wohnwagen-Tour mit @itsbarrex @ullenbullen und @alpengamecast",
         "category": "Long Drive North",
         "description": "Long Drive North."
       },
