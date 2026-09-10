@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T11:48:11Z",
+  "generated_at": "2026-09-10T17:18:14Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -542,12 +542,12 @@
     "horizon_days": 14,
     "events": [
       {
-        "uid": "0c610b46-80c6-4850-b3c5-e75a5f0534d6",
-        "start_time": "2026-09-10T17:00:00Z",
-        "end_time": "2026-09-10T21:00:00Z",
-        "title": "Wohnwagen-Tour mit @itsbarrex @ullenbullen und @alpengamecast",
-        "category": "Long Drive North",
-        "description": "Long Drive North."
+        "uid": "9dd162ff-e5b5-4047-83b4-a9e737052851",
+        "start_time": "2026-09-10T17:30:00Z",
+        "end_time": "2026-09-10T21:30:00Z",
+        "title": "Fishermaans @itsbarrex @avalon__lp @alpengamecast",
+        "category": "How to Fish",
+        "description": "How to Fish."
       },
       {
         "uid": "3015f64f-3e1e-4180-9134-870f663dc9a2",
