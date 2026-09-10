@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T21:08:20Z",
+  "generated_at": "2026-09-10T11:38:10Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -536,26 +536,11 @@
     ]
   },
   "twitch_schedule": {
-    "available": true,
+    "available": false,
     "broadcaster_id": "141241629",
     "source": "twitch_icalendar",
     "horizon_days": 14,
-    "events": [
-      {
-        "uid": "0c610b46-80c6-4850-b3c5-e75a5f0534d6",
-        "start_time": "2026-09-10T17:00:00Z",
-        "end_time": "2026-09-10T21:00:00Z",
-        "title": "Wohnwagen-Tour mit @itsbarrex @ullenbullen und @alpengamecast",
-        "category": "Long Drive North",
-        "description": "Long Drive North."
-      },
-      {
-        "uid": "3015f64f-3e1e-4180-9134-870f663dc9a2",
-        "start_time": "2026-09-13T12:00:00Z",
-        "end_time": "2026-09-13T16:00:00Z",
-        "title": "Cozy-Sonntag-Nachmittag"
-      }
-    ]
+    "reason": "Twitch iCalendar returned HTTP 500: {\"error\":\"Internal Server Error\",\"status\":500,\"message\":\"\"}"
   },
   "weekly": {
     "raid_events_completed": []
