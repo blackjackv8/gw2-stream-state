@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T17:18:14Z",
+  "generated_at": "2026-09-11T17:08:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -548,6 +548,14 @@
         "title": "Fishermaans @itsbarrex @avalon__lp @alpengamecast",
         "category": "How to Fish",
         "description": "How to Fish."
+      },
+      {
+        "uid": "74bc5eb0-0e6f-43ad-9187-bd9784334d19",
+        "start_time": "2026-09-11T17:15:00Z",
+        "end_time": "2026-09-11T21:15:00Z",
+        "title": "Fliegend ins Wochenende!",
+        "category": "WARDOGS",
+        "description": "WARDOGS."
       },
       {
         "uid": "3015f64f-3e1e-4180-9134-870f663dc9a2",
