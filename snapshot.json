@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T17:08:11Z",
+  "generated_at": "2026-09-11T21:38:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -541,14 +541,6 @@
     "source": "twitch_icalendar",
     "horizon_days": 14,
     "events": [
-      {
-        "uid": "9dd162ff-e5b5-4047-83b4-a9e737052851",
-        "start_time": "2026-09-10T17:30:00Z",
-        "end_time": "2026-09-10T21:30:00Z",
-        "title": "Fishermaans @itsbarrex @avalon__lp @alpengamecast",
-        "category": "How to Fish",
-        "description": "How to Fish."
-      },
       {
         "uid": "74bc5eb0-0e6f-43ad-9187-bd9784334d19",
         "start_time": "2026-09-11T17:15:00Z",
