@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T10:48:11Z",
+  "generated_at": "2026-09-17T10:58:13Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -360,132 +360,7 @@
   },
   "story": {
     "completed_quest_count": 26,
-    "stories": [
-      {
-        "season_id": "215AAA0F-CDAC-4F93-86DA-C155A99B5784",
-        "season_name": "Meine Geschichte",
-        "season_order": 1,
-        "story_id": 3,
-        "story_name": "Meine Geschichte",
-        "story_order": 0,
-        "completed_quests": [
-          {
-            "id": 106,
-            "name": "Der Informant"
-          },
-          {
-            "id": 108,
-            "name": "Eine vornehme Gruppe"
-          },
-          {
-            "id": 109,
-            "name": "Banditen-Entführer"
-          },
-          {
-            "id": 110,
-            "name": "Der Prozess von Julius Zamon"
-          },
-          {
-            "id": 117,
-            "name": "Die Verteidigung von Shaemoor"
-          },
-          {
-            "id": 123,
-            "name": "Willkommen zu Hause"
-          },
-          {
-            "id": 125,
-            "name": "Der Untergang der Falken-Kompanie"
-          },
-          {
-            "id": 127,
-            "name": "Ersucht Logans Hilfe"
-          },
-          {
-            "id": 128,
-            "name": "Anschuldigung"
-          },
-          {
-            "id": 139,
-            "name": "Befreiung"
-          },
-          {
-            "id": 140,
-            "name": "Die Orden von Tyria"
-          },
-          {
-            "id": 141,
-            "name": "Rohe Gewalt"
-          },
-          {
-            "id": 145,
-            "name": "Die Spur des Seraphen"
-          },
-          {
-            "id": 147,
-            "name": "Sprecher der Toten"
-          },
-          {
-            "id": 151,
-            "name": "Die Gerechtigkeit der Königin"
-          }
-        ]
-      },
-      {
-        "season_id": "215AAA0F-CDAC-4F93-86DA-C155A99B5784",
-        "season_name": "Meine Geschichte",
-        "season_order": 1,
-        "story_id": 9,
-        "story_name": "Die Orden von Tyria",
-        "story_order": 1,
-        "completed_quests": [
-          {
-            "id": 251,
-            "name": "Die Vergangenheit ausgraben"
-          },
-          {
-            "id": 254,
-            "name": "Eindämmung"
-          },
-          {
-            "id": 256,
-            "name": "Böses Blut"
-          },
-          {
-            "id": 257,
-            "name": "Mächtiger als das Schwert"
-          },
-          {
-            "id": 267,
-            "name": "Das Opfer des Champion"
-          },
-          {
-            "id": 269,
-            "name": "Unheilige Erde"
-          },
-          {
-            "id": 270,
-            "name": "Von der Sonne auserwählt"
-          },
-          {
-            "id": 282,
-            "name": "Schlacht auf der Klaueninsel"
-          },
-          {
-            "id": 285,
-            "name": "Alarmstufe Rot"
-          },
-          {
-            "id": 286,
-            "name": "Der Geisterritus"
-          },
-          {
-            "id": 358,
-            "name": "Den Weg bereiten"
-          }
-        ]
-      }
-    ]
+    "stories": []
   },
   "masteries": {
     "points": [
