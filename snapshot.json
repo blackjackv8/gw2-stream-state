@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T20:38:12Z",
+  "generated_at": "2026-09-17T23:08:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -551,9 +551,25 @@
       },
       {
         "uid": "64d6a8cf-1d99-408e-8b4f-7d8853cd5379",
-        "start_time": "2026-09-20T12:00:00Z",
-        "end_time": "2026-09-20T16:00:00Z",
-        "title": "Sonntag-Nachmittags-Gedaddel!"
+        "start_time": "2026-09-20T11:00:00Z",
+        "end_time": "2026-09-20T15:00:00Z",
+        "title": "Auf ins Abenteuer!",
+        "category": "RuneScape: Dragonwilds",
+        "description": "RuneScape: Dragonwilds."
+      },
+      {
+        "uid": "2d4aeba5-49d3-4a20-9d45-feb40026380c",
+        "start_time": "2026-09-22T16:30:00Z",
+        "end_time": "2026-09-22T20:30:00Z",
+        "category": "RuneScape: Dragonwilds",
+        "description": "RuneScape: Dragonwilds."
+      },
+      {
+        "uid": "8951cf86-908f-4f4a-b533-06207761644c",
+        "start_time": "2026-09-24T16:30:00Z",
+        "end_time": "2026-09-24T20:30:00Z",
+        "category": "RuneScape: Dragonwilds",
+        "description": "RuneScape: Dragonwilds."
       }
     ]
   },
