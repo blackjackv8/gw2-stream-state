@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T23:08:11Z",
+  "generated_at": "2026-09-18T20:38:11Z",
   "cache_seconds": 300,
   "gw2_api": {
     "permissions": [
@@ -541,14 +541,6 @@
     "source": "twitch_icalendar",
     "horizon_days": 14,
     "events": [
-      {
-        "uid": "f517a75d-89d6-4a8b-bcb8-0b1f449c7bff",
-        "start_time": "2026-09-17T16:30:00Z",
-        "end_time": "2026-09-17T20:30:00Z",
-        "title": "Was kann Runescape?",
-        "category": "RuneScape: Dragonwilds",
-        "description": "RuneScape: Dragonwilds."
-      },
       {
         "uid": "64d6a8cf-1d99-408e-8b4f-7d8853cd5379",
         "start_time": "2026-09-20T11:00:00Z",
